@@ -6,20 +6,29 @@ The goal of this project is to perform data cleaning, feature engineering, and e
 This project demonstrates practical data science skills such as:
 
 .Data wrangling
+
 .String manipulation
+
 .Feature engineering
+
 .Date-time processing
+
 .Exploratory analysis
 
 Project Workflow
 
 1 Data Loading & Exploration
+
 Loaded dataset using pandas.read_csv()
 
 Used:
+
 head()
+
 tail()
+
 info()
+
 To understand structure and data types.
 
 
