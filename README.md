@@ -38,14 +38,20 @@ Top 5 highest rated anime
 Anime with maximum episodes
 Longest running anime (based on months)
 
-💡 Skills Demonstrated
+# Skills_Demonstrated
 
 This project highlights:
 
-✔ Data Cleaning
-✔ String Processing
-✔ Custom Function Writing
-✔ Feature Engineering
-✔ Date Handling
-✔ Data Type Conversion
-✔ Basic EDA
+Data Cleaning
+
+String Processing
+
+Custom Function Writing
+
+Feature Engineering
+
+Date Handling
+
+Data Type Conversion
+
+Basic EDA
