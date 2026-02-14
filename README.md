@@ -17,7 +17,7 @@ This project demonstrates practical data science skills such as:
 
 Project Workflow
 
-1 Data_Loading & Exploration
+1 # Data_Loading & Exploration
 
 Loaded dataset using pandas.read_csv()
 
@@ -32,7 +32,7 @@ info()
 To understand structure and data types.
 
 
-2️ Feature_Engineering
+2️ # Feature_Engineering
 
  Extracting Number of Episodes
 
@@ -40,7 +40,7 @@ Created a custom function to extract episode count from the title string.
 Cleaned text (" eps" removed).
 Converted the column into integer type.
 
-3️ Exploratory_Data_Analysis
+3️ # Exploratory_Data_Analysis
 
 Performed insights such as:
 Anime with highest score
