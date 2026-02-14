@@ -12,6 +12,7 @@ This project demonstrates practical data science skills such as:
 .Exploratory analysis
 
 Project Workflow
+
 1 Data Loading & Exploration
 Loaded dataset using pandas.read_csv()
 
