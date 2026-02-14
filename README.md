@@ -1,4 +1,4 @@
-#Anime Data Analysis Project
+# Anime_Data_Analysis Project
 
 This project focuses on analyzing an Anime dataset using Python and Pandas.
 The goal of this project is to perform data cleaning, feature engineering, and exploratory data analysis (EDA) to extract meaningful insights from raw text-based data.
